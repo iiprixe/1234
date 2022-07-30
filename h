@@ -1,67 +1,85 @@
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Alien Pop Tart"].Hitbox.CFrame.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Universe Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Picture Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Rainbow Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Snowman Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Radioactive Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Penguin Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Old Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Fire Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Thief Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Inverted Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Librarian Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Tropical Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Forgotten Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Detective Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Content Deleted Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Lumberjack Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Nyan Cat Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Zombie Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Magic Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Group Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Firefly Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Hedge Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Vanilla Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Bacon Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["TV Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Night Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Creator Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Blocky Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Flamingo Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Cloud Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Crystal Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Glitch Pop Tart"].Hitbox.CFrame 
-wait(0.5)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Cactus Pop Tart"].Hitbox.CFrame
+getgenv().invis = false;
+
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+
+local X = Material.Load({
+    Title = "[Stormzzys Scripts] </> LUCKY BLOCKS",
+    Style = 1,
+    SizeX = 370,
+    SizeY = 300,
+    Theme = "Dark", --light dark aqua mocha jester
+    ColorOverrides = {
+		NavBarAccent = Color3.fromRGB(130,130,130)
+    }
+})
+
+local Y = X.New({
+    Title = "Main"
+})
+
+local P = X.New({
+    Title = "Local Player"
+})
+
+Y.Button({
+    Text = "All Items",
+    Callback = function()
+for i = 1,100 do -- Change 100 to the amount of times you want the script to repeat
+    game:GetService("ReplicatedStorage").SpawnLuckyBlock:FireServer()
+    game:GetService("ReplicatedStorage").SpawnSuperBlock:FireServer()
+    game:GetService("ReplicatedStorage").SpawnDiamondBlock:FireServer()
+    game:GetService("ReplicatedStorage").SpawnRainbowBlock:FireServer()
+    game:GetService("ReplicatedStorage").SpawnGalaxyBlock:FireServer()
+wait()
+end
+    end
+})
+
+
+Y.Button({
+    Text = "Open Blocks",
+    Callback = function()
+for i = 1,_G.amount do -- Change 100 to the amount of times you want the script to repeat
+    game:GetService("ReplicatedStorage")[_G.selected]:FireServer()
+wait()
+end
+    end
+})
+
+Y.Dropdown({
+    Text = "Block Type",
+    Callback = function(value)
+        _G.selected = value
+    end,
+    Options = {"SpawnLuckyBlock", "SpawnSuperBlock", "SpawnDiamondBlock", "SpawnRainbowBlock", "SpawnGalaxyBlock"}
+})
+
+Y.Slider({
+    Text = "Block Amount",
+    Callback = function(value)
+        _G.amount = value
+    end,
+    Min = 1,
+    Max = 100,
+    Def = 1
+})
+
+P.Slider({
+    Text = "WS/Walk Speed",
+    Callback = function(value)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = value
+    end,
+    Min = 16,
+    Max = 100,
+    Def = 16
+})
+
+P.Slider({
+    Text = "JP/Jump Power",
+    Callback = function(value)
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = value
+    end,
+    Min = 50,
+    Max = 200,
+    Def = 50
+})
